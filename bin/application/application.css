@@ -1,0 +1,67 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.main-layout{
+	-fx-alignment: top-right  ;
+	-fx-background-color: #424242;
+	-fx-border-color: #424242;
+}
+
+.top{
+	-fx-alignment: center ;	
+	-fx-background-color: #FFFFFF;
+	-fx-border-color: #0097a7;
+	-fx-border-width: 0.1cm;
+	-fx-border-radius: 0.4cm ;
+}
+
+.image-container{
+	-fx-background-color: #FFFFFF;
+	-fx-alignment: center;
+	-fx-pref-height: 12.0cm ;
+	-fx-pref-width: 25.0cm ;
+	-fx-max-height: 12.0cm;
+	-fx-border-color: #0097a7;
+	-fx-border-width: 0.1cm;
+	-fx-border-radius: 0.4cm ;
+}
+
+.control-layout{
+	-fx-alignment: top-center ;
+	-fx-background-color: #0097a7;
+	-fx-border-color: #0097a7;
+	-fx-border-width: 0.1cm;
+	-fx-border-radius: 0.4cm ;
+}
+
+.links-layout{
+	-fx-background-color: #FFFFFF;
+	-fx-padding: 1.0cm;
+}
+
+.image-view{
+}
+
+.control1{
+	-fx-pref-height: 2.0cm ;
+	-fx-pref-width: 5.5cm;
+	-fx-background-color: #006978;
+	-fx-alignment: center ;	
+	-fx-border-color: #006978;
+	-fx-border-width: 0.4cm ;
+	-fx-border-radius: 0.4cm ;
+}
+
+.control2{
+	-fx-pref-width: 5.5cm;
+	-fx-background-color: #006978;
+	-fx-alignment: center ;
+	-fx-padding: 1.0cm ;
+	-fx-pref-height: 4.0cm;
+	-fx-border-color: #006978;
+	-fx-border-width: 0.4cm ;
+	-fx-border-radius: 0.4cm ;
+}
+
+.button1{
+	-fx-background-color: #ffb300;
+}
